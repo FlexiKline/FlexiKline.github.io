@@ -1,14 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
-    <g fill="currentColor" fill-rule="nonzero">
-        <path
-            d="M4 2v19.5h1v-19.5zM15.5 10h-11v1h11zM17 12.5v11h1v-11zM6.29 22.417l10.162-10.162-.707-.707-10.162 10.162z"
-            id="Line"></path>
-        <path d="M19.264 9.443l6.589-6.589-.707-.707-6.589 6.589z"></path>
-        <path d="M6.577 23.381l19.071-5.903-.296-.955-19.071 5.903z"></path>
-        <path d="M5.573 21.724l5.905-19.076-.955-.296-5.905 19.076z"></path>
-        <path d="M6.5 24h19.5v-1h-19.5z"></path>
-        <path
-            d="M4.5 25c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM17.5 12c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z">
-        </path>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="6" y="18.75" width="15" height="1.5" rx="0.75" fill="black"/>
+<rect x="5.25" y="3" width="15" height="1.5" rx="0.75" transform="rotate(90 5.25 3)" fill="black"/>
+<rect x="13.4275" y="10" width="9.67749" height="1.5" rx="0.75" transform="rotate(-180 13.4275 10)" fill="black"/>
+<rect x="14" y="20.25" width="9.5957" height="1.5" rx="0.75" transform="rotate(-90 14 20.25)" fill="black"/>
+<rect x="11.8091" y="3.69159" width="15.18" height="1.5" rx="0.75" transform="rotate(112.5 11.8091 3.69159)" fill="black"/>
+<rect x="21.023" y="13.5773" width="15.1784" height="1.5" rx="0.75" transform="rotate(157.5 21.023 13.5773)" fill="black"/>
+<rect x="15.0923" y="7.84705" width="7.15572" height="1.5" rx="0.75" transform="rotate(-45 15.0923 7.84705)" fill="black"/>
+<rect x="5.25" y="17.6893" width="10.4161" height="1.5" rx="0.75" transform="rotate(-45 5.25 17.6893)" fill="black"/>
+<circle cx="4.5" cy="19.5" r="1.75" stroke="black" stroke-width="1.5"/>
+<circle cx="14.5" cy="9.5" r="1.75" stroke="black" stroke-width="1.5"/>
 </svg>

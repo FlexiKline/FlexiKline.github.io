@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
-    <circle cx="9" cy="14" r="1" fill="currentColor"></circle>
-    <circle cx="4" cy="14" r="1" fill="currentColor"></circle>
-    <circle cx="14" cy="14" r="1" fill="currentColor"></circle>
-    <circle cx="19" cy="14" r="1" fill="currentColor"></circle>
-    <circle cx="24" cy="14" r="1" fill="currentColor"></circle>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2" y="10.5" width="3" height="3" rx="1.5" fill="black"/>
+<rect x="7.66724" y="10.5" width="3" height="3" rx="1.5" fill="black"/>
+<rect x="13.3345" y="10.5" width="3" height="3" rx="1.5" fill="black"/>
+<rect x="19.0017" y="10.5" width="3" height="3" rx="1.5" fill="black"/>
 </svg>

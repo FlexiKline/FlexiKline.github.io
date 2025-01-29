@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
-    <g fill="currentColor" fill-rule="nonzero">
-        <path d="M4 25h22v-1h-22z" id="Line"></path>
-        <path d="M4 21h22v-1h-22z"></path>
-        <path d="M6.5 17h19.5v-1h-19.5z"></path>
-        <path d="M5 14.5v-3h-1v3zM6.617 9.275l10.158-3.628-.336-.942-10.158 3.628z"></path>
-        <path
-            d="M18.5 6c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM4.5 11c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM4.5 18c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z">
-        </path>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="19.75" width="15.9999" height="1.5" rx="0.75" fill="black"/>
+<rect x="4" y="16.25" width="15.9999" height="1.5" rx="0.75" fill="black"/>
+<rect x="6.78674" y="12.75" width="13.2132" height="1.5" rx="0.75" fill="black"/>
+<rect x="6.24982" y="8" width="3.81958" height="1.5" rx="0.75" transform="rotate(90 6.24982 8)" fill="black"/>
+<rect x="15.0159" y="5.96179" width="7.91626" height="1.5" rx="0.75" transform="rotate(167.919 15.0159 5.96179)" fill="black"/>
+<circle cx="5.49982" cy="13.5" r="1.75" stroke="black" stroke-width="1.5"/>
+<circle cx="5.49982" cy="7" r="1.75" stroke="black" stroke-width="1.5"/>
+<circle cx="16.5" cy="4.5" r="1.75" stroke="black" stroke-width="1.5"/>
 </svg>
